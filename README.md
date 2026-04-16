@@ -1,4 +1,4 @@
-# olist-data-science-analisys
+# olist-data-science-analysis
 Análise de Dados - E-commerce Olist (Brasil)
 
 Este projeto apresenta uma análise exploratória de dados (EDA) do dataset público de e-commerce da Olist, disponível no Kaggle. O objetivo é extrair insights sobre o comportamento de compra, logística e performance de categorias de produtos.
